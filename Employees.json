@@ -1,0 +1,32 @@
+[
+  {
+  	"id": "143",
+    "type": "Civilian",
+    "firstName": "Robert",
+    "lastName": "Smith",
+    "position": "Program Manager",
+    "department": "Sales",
+    "startDate": "03/12/1998",
+    "office": "West US"
+  },
+  {
+  	"id": "431",
+    "type": "Civilian",
+    "firstName": "Mary",
+    "lastName": "Williams",
+    "position": "Director",
+    "department": "Products",
+    "startDate": "05/13/2001",
+    "office": "West US"
+  },
+  {
+  	"id": "15",
+    "type": "Contract",
+    "firstName": "David",
+    "lastName": "Stevens",
+    "position": "Testing",
+    "department": "Software",
+    "startDate": "10/01/2005",
+    "office": "Eest US"
+  }
+]
