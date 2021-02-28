@@ -1,9 +1,8 @@
-[
-  {
-  "employees": [
+{
+  "posts": [
     {
-  	"id": "143",
-    "type": "Civilian",
+  	"id": "1",
+    "title": "Civilian",
     "firstName": "Robert",
     "lastName": "Smith",
     "position": "Program Manager",
@@ -11,9 +10,9 @@
     "startDate": "03/12/1998",
     "office": "West US"
     },
-  {
-  	"id": "431",
-    "type": "Civilian",
+    {
+  	"id": "2",
+    "title": "Civilian",
     "firstName": "Mary",
     "lastName": "Williams",
     "position": "Director",
@@ -22,8 +21,8 @@
     "office": "West US"
   },
   {
-  	"id": "15",
-    "type": "Contract",
+  	"id": "3",
+    "title": "Contract",
     "firstName": "David",
     "lastName": "Stevens",
     "position": "Testing",
@@ -36,5 +35,3 @@
     "name": "typicode"
   }
 }
-  
-]
