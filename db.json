@@ -1,5 +1,7 @@
 [
   {
+  "employees": [
+    {
   	"id": "143",
     "type": "Civilian",
     "firstName": "Robert",
@@ -8,7 +10,7 @@
     "department": "Sales",
     "startDate": "03/12/1998",
     "office": "West US"
-  },
+    },
   {
   	"id": "431",
     "type": "Civilian",
@@ -29,4 +31,10 @@
     "startDate": "10/01/2005",
     "office": "Eest US"
   }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+  
 ]
